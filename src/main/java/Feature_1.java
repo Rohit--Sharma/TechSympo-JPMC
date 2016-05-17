@@ -3,5 +3,7 @@
 */
 public Common
 {
-	change
+	public static void main() {
+		
+	}
 }
